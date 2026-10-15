@@ -11,7 +11,7 @@ Documentation-first: every project starts with a written design, not a blank edi
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | **[booklo](https://booklo.com.ar)** | Book marketplace: 30,000+ titles, Mercado Pago checkout, admin dashboard | Next.js · TypeScript · PostgreSQL · Prisma | 🟢 **Live in production** |
-| **[Bardo](https://github.com/framallo90/preader)** | Mobile PDF reader with page-synced narration — own backend for extraction & TTS | React Native · Expo · TypeScript · Node.js · Python · Hugging Face | 🛠 In development |
+| **[Bardo](https://facuramallo.com.ar/#projects)** | Android reader and narrator for PDF, EPUB, TXT, DOCX and comics — fully offline, page-synced narration with the spoken word highlighted; own Kotlin native modules (Pdfium, 7-Zip, TTS) | React Native · Expo · TypeScript · Kotlin · SQLite · Pdfium | 🛠 v2.0, in device testing |
 | **investy** | Investment scoring engine (z-scores, Fama-French style) | TypeScript · Node.js · PostgreSQL | 🔒 Private — code on request |
 
 ## 🧰 Tech I work with
