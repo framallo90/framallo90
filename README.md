@@ -1,7 +1,7 @@
 # Hi, I'm Facundo Ramallo 👋
 
 **Full Stack Developer — Angular · Node/TypeScript · Java/Spring Boot · React Native**
-Mar del Plata, Argentina · on-site or remote · Spanish (EU) citizenship
+Mar del Plata, Argentina · remote or freelance · Spanish (EU) citizenship — no visa or sponsorship needed
 
 I build real, working products end to end — from database schema to deployed UI, on my own server.
 Documentation-first: every project starts with a written design, not a blank editor.
