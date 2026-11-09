@@ -1,9 +1,9 @@
 # Hi, I'm Facundo Ramallo 👋
 
-**Full Stack Developer — Angular · Node/TypeScript · Java/Spring Boot · React Native**
+**Full Stack Developer — LLMs in production · Angular · Node/TypeScript · React Native**
 Mar del Plata, Argentina · remote or freelance · Spanish (EU) citizenship — no visa or sponsorship needed
 
-I build real, working products end to end — from database schema to deployed UI, on my own server.
+I put language models to work inside products that sell, not in demos — and build those products end to end, from database schema to deployed UI, on my own server.
 Documentation-first: every project starts with a written design, not a blank editor.
 
 ## 🚀 What I'm building
@@ -12,14 +12,14 @@ Documentation-first: every project starts with a written design, not a blank edi
 |---|---|---|---|
 | **[booklo](https://booklo.com.ar)** | Online bookstore: 38,000+ titles — books, comics and manga aggregated from several sources. Mercado Pago checkout, Google OAuth, Paq.ar / MiCorreo shipping, admin dashboard with sales analytics | Angular · TypeScript · Node.js · Express · MySQL · Mercado Pago | 🟢 **Live in production** |
 | **[Geeky Treasures](https://geekytreasures.com.ar)** | Second storefront on booklo's inventory, with no database of its own. Server-rendered with Angular 21, where the same SSR server acts as a BFF — a cached, allow-listed proxy — so the browser never calls the store API directly. One inventory, one checkout, two brands | Angular 21 · SSR · TypeScript · Node.js · SCSS | 🟢 **Live in production** |
-| **[investy](https://investy.com.ar)** | Public market-data platform for Argentina: live FX rates (MEP/CCL/blue/official), an in-house financial-stress index, implied devaluation from the bond curve and a yield comparator going back to 2001. I published a 5-factor scoring model and evaluated it in public: across 212 signals it did not beat the base rate, so I retired it and left the results table online | Angular · TypeScript · NestJS · Prisma · MySQL · Python | 🟢 **Live in production** |
-| **[Bardo](https://facuramallo.com.ar/#projects)** | Android reader and narrator for PDF, EPUB, TXT, DOCX and comics — fully offline, page-synced narration with the spoken word highlighted; own Kotlin native modules (Pdfium, libarchive, TTS) | React Native · Expo · TypeScript · Kotlin · SQLite · Pdfium | 🛠 v3, in device testing |
-| **[geeky-bot](https://facuramallo.com.ar/#projects)** | WhatsApp assistant serving both storefronts on one number: catalogue search, orders, and a used-book intake flow. Deterministic button flows with an LLM only for free text, and keyword rules as fallback so it never depends on the model | TypeScript · Node.js · Express · SQLite · WhatsApp Cloud API | 🟢 Running |
+| **[investy](https://investy.com.ar)** | Public market-data platform for Argentina: live FX rates (MEP/CCL/blue/official), an in-house financial-stress index, implied devaluation from the bond curve and a yield comparator going back to 2001. I published a 5-factor scoring model and evaluated it in public: across 212 signals it did not beat the base rate, so I retired it and left the results table online | Angular · TypeScript · NestJS · Prisma · MySQL · Python · FastAPI | 🟢 **Live in production** |
+| **[Bardo](https://play.google.com/store/apps/details?id=ar.bardo.app)** | Android reader and narrator for PDF, EPUB, TXT, DOCX and comics — fully offline, page-synced narration with the spoken word highlighted; own Kotlin native modules (Pdfium, libarchive, TTS). Its website, [bardoreader.com.ar](https://bardoreader.com.ar), is a static Next.js export shipped by a GitHub Actions pipeline that blocks on high-severity vulnerabilities | React Native · Expo · TypeScript · Kotlin · SQLite · Pdfium · Next.js · Tailwind | 🟢 **Live on Google Play** |
+| **[geeky-bot](https://facuramallo.com.ar/#projects)** | WhatsApp assistant serving both storefronts on one number: catalogue search, orders, and a used-book intake flow. Free text is classified with Claude through a forced tool call; the model never writes prices, stock or deadlines, and keyword rules take over if it doesn't answer | TypeScript · Node.js · Express · SQLite · Claude API · WhatsApp Cloud API | 🟢 **Live in production** |
 
 ## 🧰 Tech I work with
 
-`Java` `Spring Boot` `TypeScript` `Angular` `Node.js` `Express` `NestJS` `React Native` `Kotlin`
-`MySQL` `SQLite` `JPA / Hibernate` `Git` `Linux` `nginx` `Expo` `Mercado Pago` `Cloudflare`
+`TypeScript` `Angular` `Node.js` `Express` `NestJS` `React Native` `Kotlin` `Java` `Spring Boot`
+`MySQL` `SQLite` `JPA / Hibernate` `Git` `GitHub` `Linux` `nginx` `Expo` `Mercado Pago` `Cloudflare`
 
 ## 📫 Let's connect
 
